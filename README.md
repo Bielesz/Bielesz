@@ -4,7 +4,7 @@ Hi 👋 My name is Mariusz Bielesz
 Frontend Developer
 ------------------
 
-I am a self-taught frontend developer.
+I am a self-taught front-end developer.
 
 *   🖥️  See my portfolio at [https://bielesz.netlify.app](http://bielesz.netlify.app)
 *   ✉️  You can contact me at [bielesz@yahoo.com](mailto:bielesz@yahoo.com)
