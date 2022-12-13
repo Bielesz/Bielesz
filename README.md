@@ -8,7 +8,7 @@ I am a self-taught front-end developer.
 
 *   🖥️  See my portfolio at [https://bielesz.netlify.app](http://bielesz.netlify.app)
 *   ✉️  You can contact me at [bielesz@yahoo.com](mailto:bielesz@yahoo.com)
-*   🧠  I'm learning React & TypeScript
+*   🧠  I'm learning React and TypeScript
 
 ### Skills  
 
