@@ -8,7 +8,7 @@ I am a self-taught front-end developer. With ambition to continue learning.
 
 *   🖥️  See my portfolio at [https://bielesz.netlify.app](http://bielesz.netlify.app)
 *   ✉️  You can contact me at [bielesz@yahoo.com](mailto:bielesz@yahoo.com)
-*   🧠  I'm learning WordPress and SEO
+*   🧠  Currently learning WordPress and SEO
 *   🛠  Currently working on [https://napolomiu.pl/](https://napolomiu.pl/)
 
 ### Skills  
